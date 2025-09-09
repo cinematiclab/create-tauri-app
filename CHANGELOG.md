@@ -1,5 +1,9 @@
 # Changelog
 
+## \[4.6.3]
+
+- [`8d15234`](https://www.github.com/tauri-apps/create-tauri-app/commit/8d15234e7b473afe68c8601e88f11d1646157404) ([#929](https://www.github.com/tauri-apps/create-tauri-app/pull/929) by [@Legend-Master](https://www.github.com/tauri-apps/create-tauri-app/../../Legend-Master)) Fix the `.ico` icon being blurry because of it lacks some sizes
+
 ## \[4.6.2]
 
 - [`43802a4`](https://www.github.com/tauri-apps/create-tauri-app/commit/43802a492d53179234f5944944a8c526ed7eebc3) ([#912](https://www.github.com/tauri-apps/create-tauri-app/pull/912) by [@JosefBredereck](https://www.github.com/tauri-apps/create-tauri-app/../../JosefBredereck)) updated angular template to v20
